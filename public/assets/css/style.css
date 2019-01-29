@@ -1,0 +1,50 @@
+#nameTitle {
+    float: right;
+    padding: 10px;
+}
+
+#jacobPic {
+    height: 250px;
+    width: 250px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+h5 {
+    color: grey;
+    float: right;
+    margin: 0px;
+}
+
+#name {
+  margin-bottom:0px;  
+}
+
+#liPic {
+    padding:10px;
+}
+
+#ghPic {
+    padding:10px;
+}
+
+#emailPic {
+    padding:10px;
+}
+
+#resumePic {
+    padding:10px;
+}
+
+#carousel {
+    color: black;
+}
+
+.previewPic {
+    height: 120px;
+    width: 50%;
+}
+
+.jacobPic2 {
+    z-index: 0;
+}
