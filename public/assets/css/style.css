@@ -36,15 +36,19 @@ h5 {
     padding:10px;
 }
 
-#carousel {
-    color: black;
-}
-
 .previewPic {
     height: 120px;
     width: 50%;
 }
 
-.jacobPic2 {
-    z-index: 0;
+
+.carousel {
+    height: 500px;
+    padding: 0px;
+    position: fixed;
+    
+  }
+
+.carousel-item {
+    width: 300px; 
 }
